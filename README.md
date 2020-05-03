@@ -1,5 +1,3 @@
-# E-Vent
+# BVM-HALO-Ventilator
 
-Toronto fork of MIT's E-vent ( https://e-vent.mit.edu/ ) a project to create and evaluate a high acuity, low operability (HALO) bag-mask ventilator for use during emergencies in low-resource settings such as failing empires.  
-
-Original MIT files: https://drive.google.com/drive/folders/1v4ZL-CO4kW0I5NhxWdsV5hZ_PajF2jMu
+Projects initiated in Toronto in April 2020 during the COVID-19 pandemic to refine the concept originally created by the MIT [E-Vent Team](https://e-vent.mit.edu/). A collaboration between the [Lynn and Arnold Irwin Advanced Perioperative Imaging Lab](https://apil.ca) at [University Health Network](https://www.uhn.ca),[Promation Engineering](https://www.promation.com), [University of Toronto Faculty of Applied Science & Engineering](https://www.engineering.utoronto.ca) and (Mackenzie Innovation Institute](https://mi2health.com/).
