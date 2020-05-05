@@ -17,7 +17,10 @@ developers and associated insititutions do not accept any liability for its use.
 
 **In an ideal world, such a device would never be used on living beings.**
 
-![BVM-HALO-VENT-2.1](Diagrams/Cerebrus Circuit - thumbnail.png)
+![BVM-HALO-VENT-2.1](Media/Prototype 2.1/BVMHALO2.1.resized.jpg)
+
+![BVM-HALO-VENT-2.1 controls](Media/Prototype 2.1/BVMHALO2.1-Control.resized.jpg)
+
 
 # BVM-HALO-Ventilator
 Projects initiated in Toronto in April 2020 during the COVID-19 pandemic to refine the concept originally created by the MIT <a href="https://e-vent.mit.edu" rel="nofollow" target="_blank">E-Vent Team</a>. A collaboration between the 
