@@ -22,9 +22,7 @@ developers and associated insititutions do not accept any liability for its use.
 ![BVM-HALO-VENT-2.1 controls](Media/Prototype 2.1/BVMHALO2.1-Control.resized.jpg)
 
 
-# BVM-HALO-Ventilator
-
-# Documentation: BVM-HALO-Ventilator 2.1 Prototype Design Notes
+# BVM-HALO-Ventilator 2.1 Prototype Design Notes
 
 ## Control Architecture
 
