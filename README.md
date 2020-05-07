@@ -101,3 +101,4 @@ Laveer Engineering: Jeff Hulcoop
 
 Alithya: Matthew Humeny
 
+Electromate: Alex Werner
