@@ -9,11 +9,11 @@ It has significant potential for causing harm  even in the hands of
 skilled and experienced clinicians. Any clinical application requires close
 monitoring.
 
-It is posted here in order to faciliate rapid knowledge sharing and research
+It is posted here in order to facilitate rapid knowledge sharing and research
 on strategies for addressing the global ventilator shortage during pandemics.
 
 Any of use of this device is done purely at your own risk and liability. The
-developers and associated insititutions do not accept any liability for its use.
+developers and associated institutions do not accept any liability for its use.
 
 **In an ideal world, such a device would never be used on living beings.**
 
@@ -89,7 +89,7 @@ The project was initiated in Toronto in April 2020 during the COVID-19 pandemic.
 <a href="https://www.engineering.utoronto.ca" rel="nofollow" target="_blank">University of Toronto Faculty of Applied Science & Engineering</a> and 
 <a href="https://mi2health.com" rel="nofollow" target="_blank">Mackenzie Innovation Institute</a>
 
-University Health Network: Azad Mashari, Jesse May
+University Health Network: Azad Mashari, Jesse May, Maha Al-Mandhari, William Ng
 
 University of Toronto: Kamran Behdinan, Ben Chan
 
