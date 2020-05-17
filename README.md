@@ -15,8 +15,6 @@ on strategies for addressing the global ventilator shortage during pandemics.
 Any of use of this device is done purely at your own risk and liability. The
 developers and associated institutions do not accept any liability for its use.
 
-**In an ideal world, such a device would never be used on living beings.**
-
 ![BVM-HALO-VENT-2.1](Media/Prototype 2.1/BVMHALO2.1.resized.jpg)
 
 ![BVM-HALO-VENT-2.1 controls](Media/Prototype 2.1/BVMHALO2.1-Control.resized.jpg)
@@ -66,7 +64,7 @@ The industrial grade stepper motor is an Applied Motion HT23-601 (https://www.ap
 A 5:1 inline planetary gearbox was installed between the stepper motor and the device drive train to increase the delivered torque to the arms (see GAM PE-N23-005G Inline planetary gearbox ).
 
 ### Moisture Resistance
-Some efforts were made to minimize the potential ingress of liquids into the enclosure and components. The potentioment shafts were sealed using rubber seals, and the LCD display was sealed with RTV sealant. The enclosure itself is relatively moisture resistant. With prolonged exposure to moisture, it is expected that electrical connections will corrode and this device will cease to operate properly. There is not concern about electrical shock because the device runs entirely on 24VDC, with a [ower consummation of well below 90W. The power supply itself is sealed and medical grade.
+Some efforts were made to minimize the potential ingress of liquids into the enclosure and components. The potentioment shafts were sealed using rubber seals, and the LCD display was sealed with RTV sealant. The enclosure itself is relatively moisture resistant. With prolonged exposure to moisture, it is expected that electrical connections will corrode and this device will cease to operate properly. There is not concern about electrical shock because the device runs entirely on 24VDC, with a power consumption of well below 90W. The power supply itself is sealed and medical grade.
 
 ### Safety
 This prototype device is guarded on both sides of the drive train with lexan shields, although pinch points do remain on this device. A resuscitator bag should never be installed or removed unless the arms are retracted and in the standby position, or if the power is physically disconnected from the device.
